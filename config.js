@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Cho tớ biết lí do đi',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu',
+    reply: 'Yêu thì yêu mà không yêu thì yêu đừng chửi mình',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/groups/tek4.vn/'
+    messLink: 'https://www.facebook.com/chieu.chieu.vip/'
 }
