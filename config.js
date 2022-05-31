@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Hum nào mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/groups/tek4.vn/'
+    messLink: 'https://www.youtube.com/watch?v=3k1TqPiww8U'
 }
