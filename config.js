@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Love confess",
-    introTitle: 'Who are you',
+    titleWeb: "Gửi Trân Lờ",
+    introTitle: 'Bảo Trân',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/groups/tek4.vn/'
+    messLink: 'https://github.com/nguyenduchuan03/still-single/blob/main/img/giphy2.gif?raw=true'
 }
